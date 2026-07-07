@@ -5,7 +5,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0c3e3877-f2fd-4a2e-a27f-a5f2e9249ef7" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.github/workflows/deploy.yml" beforeDir="false" afterPath="$PROJECT_DIR$/.github/workflows/deploy.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/backend/src/main/java/com/back/domain/home/home/controller/HomeController.java" beforeDir="false" afterPath="$PROJECT_DIR$/backend/src/main/java/com/back/domain/home/home/controller/HomeController.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -102,7 +102,7 @@
       <updated>1783390331296</updated>
       <workItem from="1783390332982" duration="3147000" />
       <workItem from="1783394380862" duration="467000" />
-      <workItem from="1783402409225" duration="2802000" />
+      <workItem from="1783402409225" duration="3169000" />
     </task>
     <servers />
   </component>
